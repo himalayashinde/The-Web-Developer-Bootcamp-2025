@@ -3,3 +3,7 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 
 # 23-01-2025: 
 * Restarted Web Development learning today. 
+* Completed HTML Basics, Forms and Tables today.
+* Completed Section 5 Video 51 
+* Pushed all the changes to GitHub on master branch 
+
