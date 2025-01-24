@@ -12,3 +12,4 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 * Started with Section 6 Css basics
 * Completed Section 6 all videos
 * Started with Section 7 CSS Selectors
+* Completed Section 7 video 75 by now 

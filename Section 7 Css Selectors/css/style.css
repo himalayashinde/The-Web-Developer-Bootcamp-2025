@@ -1,0 +1,28 @@
+*{
+    color: pink;
+}
+
+button:hover{
+    font-size: 90px;
+    color: red;
+
+}
+
+p:nth-of-type(2n){
+    font-size: 2vh;
+    color: yellowgreen;
+}
+
+#btn1{
+    color: hotpink;
+    background-color: azure;
+}
+
+span{
+    font-size: 30px;
+    color: chartreuse;
+}
+
+.tag{
+    color: blue;
+}
