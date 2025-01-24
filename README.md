@@ -7,3 +7,8 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 * Completed Section 5 Video 51 
 * Pushed all the changes to GitHub on master branch 
 
+# 24-01-2025:
+* Completed Section 5 all videos
+* Started with Section 6 Css basics
+* Completed Section 6 all videos
+* Started with Section 7 CSS Selectors

@@ -1,0 +1,31 @@
+h1 {
+    color: indigo;
+    font-size: 6vh;
+    background-color: aqua;
+    text-align: center;
+    font-weight: 900;
+    text-decoration: underline;
+    letter-spacing: 15px;
+}
+
+button{
+    color: rgb(0, 128, 38);
+    font-size: 2vh;
+    background-color: yellow;
+}
+
+p{
+    color: brown;
+    font-size: 3vh;
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: green underline wavy;
+}
+
+a {
+    color: #f78120;
+    font-size: 5vh;
+    text-decoration: none;
+    text-align: left;
+ 
+}
