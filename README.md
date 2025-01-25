@@ -18,3 +18,4 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 * need to start section 8 Css Box Model
 * Section 8 completed all videos
 * Started with Section 9 Other Assorted Useful CSS properties
+* Completed Section 9 all videos
