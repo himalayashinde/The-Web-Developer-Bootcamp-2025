@@ -19,3 +19,7 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 * Section 8 completed all videos
 * Started with Section 9 Other Assorted Useful CSS properties
 * Completed Section 9 all videos
+
+# 26-01-2025:
+* Started with Section 10 CSS Flexbox video 103
+* need to continue with video 108
