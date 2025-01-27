@@ -22,4 +22,7 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 
 # 26-01-2025:
 * Started with Section 10 CSS Flexbox video 103
-* need to continue with video 108
+* Completed with video 108
+
+# 27-01-2025:
+* Completed Section 10 video 110
