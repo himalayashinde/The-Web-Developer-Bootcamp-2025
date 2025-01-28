@@ -33,3 +33,4 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 * Started with Section 12 CSS frameworks bootstrap
 * Completed Section 12 video 126
 * Completed Section 12 Video 127 
+* Completed Section 12 Video 128
