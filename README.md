@@ -27,3 +27,9 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 # 27-01-2025:
 * Completed Section 10 video 115
 * Completed Section 11 video 121
+
+# 28-01-2025:
+* Completed Section 11 all videos
+* Started with Section 12 CSS frameworks bootstrap
+* Completed Section 12 video 126
+* Completed Section 12 Video 127 
