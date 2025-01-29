@@ -35,4 +35,9 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 * Completed Section 12 Video 127 
 * Completed Section 12 Video 128
 * Completed Section 12 Video 129
-* Completed Section 12 Video 130
+
+# 29-01-2025:
+* Section 12 Completed 
+* Starting with Section 13 Optional meauseam of candy project
+
+
