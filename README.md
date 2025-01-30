@@ -44,5 +44,7 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 
 # 30-01-2025:
 * Section 14 completed video 145
+* Section 14 completed all videos
+* Section 15 video 155 done
 
 
