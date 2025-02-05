@@ -66,3 +66,7 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 * Section 16 completed 170 Video
 * Section 16 video 173 completed.
 * Section 16 all videos completed.
+
+# 05-02-2025
+* Section 17 video 179 started
+* Section 17 today taken break from study.
