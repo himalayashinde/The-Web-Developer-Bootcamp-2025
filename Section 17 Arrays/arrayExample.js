@@ -14,3 +14,6 @@ console.log(colors.length); //3
 // Important array methods:
 
 //push(value) - adds value to the END of an array
+
+// arrays hard examples
+    
