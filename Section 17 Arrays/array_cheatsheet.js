@@ -57,3 +57,18 @@ const john = users.find(user => user.name === "John"); // {id: 1, name: "John"}
 
 // 13. Array Spread Operator
 const newArray = [...colors, "purple", "pink"];
+
+// 14. Destructuring Arrays
+const [first, second] = colors;       // first="red", second="orange"
+const [head, ...rest] = colors;        // head="red", rest=["orange", "yellow"]
+
+// 15. Iterating Arrays
+colors.forEach(color => console.log(color));
+for (const color of colors) {
+    console.log(color);
+}
+for (const [index, color] of colors.entries()) {
+    console.log(index, color);
+}
+
+// 16. Multidimensional Arrays
