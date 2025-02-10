@@ -82,3 +82,6 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 
 # 09-02-2025
 * Section 17 today taken break from study.
+
+# 10-02-2025
+* Section 17 today taken break from study.
