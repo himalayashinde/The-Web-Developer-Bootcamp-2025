@@ -72,3 +72,11 @@ for (const [index, color] of colors.entries()) {
 }
 
 // 16. Multidimensional Arrays
+const matrix = [
+    [1, 2],
+    [3, 4]
+];
+console.log(matrix[0][1]); // 2
+
+// 17. Array.from() Method
+const numbers3 = Array.from({length: 5}, (_, i) => i + 1); // [1,2,3,4,5]
