@@ -1,24 +1,27 @@
-# The-Web-Developer-Bootcamp-2025:
-Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build 13+ projects, gain job-ready skills like authentication and responsive design, and enjoy hands-on learning. Perfect for beginners or those enhancing skills, it's engaging, affordable, and taught by an expert. Constant updates included!
+# The Web Developer Bootcamp 2025 🚀
 
-# 23-01-2025: 
-* Restarted Web Development learning today. 
-* Completed HTML Basics, Forms and Tables today.
-* Completed Section 5 Video 51 
-* Pushed all the changes to GitHub on master branch 
+## Course Overview
+Learn web development with:
+- HTML ✨
+- CSS 🎨
+- JavaScript 💻
+- React ⚛️
+- NodeJS 🟢
+- And more! 
 
-# 24-01-2025:
-* Completed Section 5 all videos
-* Started with Section 6 Css basics
-* Completed Section 6 all videos
-* Started with Section 7 CSS Selectors
-* Completed Section 7 all videos
+## Projects & Skills
+- 13+ Hands-on Projects
+- Authentication
+- Responsive Design
+- Industry-Ready Skills
 
-# 25-01-2025:
-* need to start section 8 Css Box Model
-* Section 8 completed all videos
-* Started with Section 9 Other Assorted Useful CSS properties
-* Completed Section 9 all videos
+## Daily Progress Tracker 📅
+
+### January 2025
+#### Week 4
+- [x] **23/01** - HTML Basics, Forms & Tables
+- [x] **24/01** - CSS Basics & Selectors
+- [x] **25/01** - CSS Box Model & Properties
 
 # 26-01-2025:
 * Started with Section 10 CSS Flexbox video 103
@@ -88,4 +91,3 @@ Learn web development with HTML, CSS, JavaScript, React, NodeJS, and more! Build
 
 # 11-02-2025
 * Section 17 today taken break from study.
-
