@@ -112,3 +112,10 @@ Learn web development with:
 
 # 18-02-2025
 Section 17 today taken break from study.
+
+# 19-02-2025 to  23-02-2025
+Section 17 today taken break from study.
+
+# 24-02-2025
+Section 17 video 180 completed
+Section 17 video 181 completed
