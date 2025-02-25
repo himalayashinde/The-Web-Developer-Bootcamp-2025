@@ -121,4 +121,7 @@ Section 17 video 180 completed
 Section 17 video 181 completed
 Section 17 video 187 completed
 Section 18 Started
-Section 18 Completed
+Section 18 Completed 191 video 
+
+# 25-02-2025
+Section 18 Completed 192 video
